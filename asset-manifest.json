@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MI_Store_Reactjs/static/css/main.ec64a9c9.css",
+    "main.js": "/MI_Store_Reactjs/static/js/main.b5b5d7fd.js",
+    "index.html": "/MI_Store_Reactjs/index.html",
+    "main.ec64a9c9.css.map": "/MI_Store_Reactjs/static/css/main.ec64a9c9.css.map",
+    "main.b5b5d7fd.js.map": "/MI_Store_Reactjs/static/js/main.b5b5d7fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ec64a9c9.css",
+    "static/js/main.b5b5d7fd.js"
+  ]
+}
